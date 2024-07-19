@@ -1,4 +1,4 @@
-# azure-security-and-cicd-challenge#
+# azure-security-and-cicd-task
 
 Documenting information about the repo here.
 
